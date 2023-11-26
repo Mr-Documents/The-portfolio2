@@ -1,0 +1,43 @@
+html {
+  background-color: pink;
+}
+#firsth1 {
+  color: antiquewhite;
+  background-color: purple;
+  text-align: center;
+}
+#firsth2 {
+  color: antiquewhite;
+  text-align: center;
+  background-color: blueviolet;
+}
+#secondh2 {
+  color: navy;
+}
+img {
+  width: 300px;
+
+  border: 10px double white;
+}
+#div3{
+    width: 200px;
+    font-family: cursive;
+    border: 3px solid black;
+    margin-top: 30px;
+}
+#div4{
+    width: 200px;
+    font-family: cursive;
+    border: 3px solid black;
+    margin-left: 400px;
+}
+footer{
+    border: 9px double black;
+    margin-top: 20px;
+}
+#style{
+    width: 40px;
+    margin-bottom: 100px;
+    font-size:x-large;
+    color:blueviolet;
+}
